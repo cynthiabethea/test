@@ -1,2 +1,4 @@
 # test
-Practice repo
+
+
+This is a sample repo to help learn how to use github.
